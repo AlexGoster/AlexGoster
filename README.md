@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/Docker-175D98?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-AC3C25?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-285D9A?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Redis-9E2C2C?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
+</p>
+
 ## Избранные проекты
 
 | Проект | Что внутри |
