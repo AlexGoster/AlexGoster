@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/Redis-9E2C2C?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGoster/AlexGoster/snake/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/AlexGoster/AlexGoster/snake/snake-light.svg" alt="Змейка на календаре вкладов AlexGoster">
+  </picture>
+</p>
+
 ## Избранные проекты
 
 | Проект | Что внутри |
