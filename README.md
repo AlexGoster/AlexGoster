@@ -1,8 +1,14 @@
-# AlexGoster
+<h1 align="center">AlexGoster · Python Backend</h1>
 
-**Python backend · FastAPI · PostgreSQL · Celery · Docker**
+<p align="center">REST API, фоновые задачи и CI/CD</p>
 
-Разрабатываю REST API и фоновые задачи. В проектах работаю с авторизацией, транзакциями, интеграционными тестами и CI/CD.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-244D70?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-006F64?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-315D85?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Celery-435B24?style=for-the-badge&amp;logo=celery&amp;logoColor=white" alt="Celery">
+  <img src="https://img.shields.io/badge/Docker-175D98?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
 
 ## Избранные проекты
 
