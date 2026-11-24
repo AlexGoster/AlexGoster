@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/github-stats.svg" width="360" alt="Публичная статистика AlexGoster на 23 ноября 2026 года: 21 репозиторий, 17 pull request, 0 issues, 0 звёзд">
+  <img src="assets/github-stats.svg" width="420" alt="Публичная статистика GitHub AlexGoster: 21 репозиторий, 17 pull request, 0 issues и 0 звёзд">
 </p>
 
 <p align="center">
