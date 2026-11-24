@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/github-stats.svg" width="420" alt="Публичная статистика GitHub AlexGoster: 21 репозиторий, 17 pull request, 0 issues и 0 звёзд">
+  <a href="https://github.com/AlexGoster?tab=repositories">Все репозитории</a> ·
+  <a href="https://github.com/AlexGoster?tab=overview">Активность GitHub</a>
 </p>
 
 <p align="center">
@@ -27,5 +28,11 @@
 | --- | --- |
 | [OrderFlow Core](https://github.com/AlexGoster/orderflow-core) | API заказов на FastAPI с асинхронным SQLAlchemy, PostgreSQL и миграциями Alembic |
 | [OrderFlow Jobs](https://github.com/AlexGoster/orderflow-jobs) | Фоновые и периодические задачи на Celery и Redis с отслеживанием статусов и повторными попытками |
-| [OrderFlow Platform](https://github.com/AlexGoster/orderflow-platform) | CI/CD, развёртывание с откатом и мониторинг на Prometheus и Grafana |
+| [OrderFlow Platform](https://github.com/AlexGoster/orderflow-platform) | API feature flags, CI/CD, сценарии развёртывания и мониторинг на Prometheus и Grafana |
 | [Deribit Price API](https://github.com/AlexGoster/deribit-price-api) | API для получения цен Deribit |
+| [PythonAutotest](https://github.com/AlexGoster/PythonAutotest) | Selenium Page Objects и API-тесты pytest с локальным демонстрационным приложением |
+| [МДК 02.04](https://github.com/AlexGoster/mdk0204-viktoria-lokhova-labs) | Учебное приложение WPF на C#/.NET 8 и модульные тесты xUnit |
+
+Это личные и учебные проекты. Возможности, команды запуска и ограничения описаны
+в README каждого репозитория. OrderFlow Core, Jobs, Scale, Services и Platform —
+отдельные проекты для разных задач; их не нужно запускать все вместе.
