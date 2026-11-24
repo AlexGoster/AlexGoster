@@ -1,6 +1,6 @@
-<h1 align="center">AlexGoster</h1>
+<h1 align="center">AlexGoster · Software Developer</h1>
 
-<p align="center">REST API, фоновые задачи и CI/CD</p>
+<p align="center">Бэкенд и REST API · веб-интерфейсы на React и TypeScript</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react&amp;theme=dark" height="40" alt="C#, Python, JavaScript, TypeScript, React">
