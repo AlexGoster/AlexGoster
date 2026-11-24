@@ -3,11 +3,11 @@
 <p align="center">REST API, фоновые задачи и CI/CD</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis&amp;theme=dark" height="40" alt="Python, FastAPI, Django, PostgreSQL, Redis">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,react&amp;theme=dark" height="40" alt="C#, Python, JavaScript, TypeScript, React">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,grafana&amp;theme=dark" height="40" alt="Git, GitHub Actions, Docker, Grafana">
+  <img src="https://skillicons.dev/icons?i=git,pycharm,vscode,visualstudio&amp;theme=dark" height="40" alt="Git, PyCharm, VS Code, Visual Studio">
 </p>
 
 <p align="center">
