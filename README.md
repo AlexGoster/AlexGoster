@@ -1,4 +1,4 @@
-<h1 align="center">AlexGoster · Python Backend</h1>
+<h1 align="center">AlexGoster</h1>
 
 <p align="center">REST API, фоновые задачи и CI/CD</p>
 
